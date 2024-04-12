@@ -33,11 +33,29 @@ Select "Vault Access Policy" as Permission Model
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/5e6e01c5-3d6d-4179-9b6a-7695f668c920)
 
 Click next, next and Create. Once deployment is completed click on "Go to Resource"
-
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/ecbdd7e3-5baa-4403-b402-e180eb378c2c)
 
+Step7: Click on Access Policies and Create
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/a327ed12-5181-49e2-a232-12760aaf410b)
 
-Step7: 
+Select "Key & Secret Management"
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/c24dba93-887c-40b1-9f5d-d4c6c0cb4b7a)
+
+Select App Registration(AppRegistration for Key Vault) which is created in Step1
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/32bfa783-0f92-4710-9755-b5348f064f01)
+
+Click Next and Create Key Vault
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/8d0ee588-e15c-4121-8b39-6e6f35f72dd9)
+
+Step8: Create Secret for Key Vault
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/90acfe78-d343-468c-8727-e424d9fac604)
+
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/b15a10d4-6a9b-4aef-91cb-5fda83b46347)
+
+
+
+
+
 
 
 
