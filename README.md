@@ -1,32 +1,31 @@
 # How to retrieve AzureKeyVault Secret using C#
 
 **Step1:** Create App Registration
-
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/b9f70370-3d7e-4fc2-8609-5afe9c7a8d91)
 
-**Step2:** Go to API Permission, Click on "+ Add a permission", Select Azure Key Vault
 
+**Step2:** Go to API Permission, Click on "+ Add a permission", Select Azure Key Vault
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/8ef052ca-57ec-47fc-99a3-92c09e2fe856)
 
-**Step3:** Select Delegated permissions and check user_impersonation
 
+**Step3:** Select Delegated permissions and check user_impersonation
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/faf29bf6-fdd4-435b-8110-bcef11412c4a)
 
-Step4: Click on "Grant admin consent for Default Directory"
 
+**Step4:** Click on "Grant admin consent for Default Directory"
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/415ad038-0ba6-4292-9207-a7a373d166e9)
 
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/eee7c253-a519-49c3-af4e-0799c82d12ac)
 
-Step5: Create Client Secret
 
+**Step5:** Create Client Secret
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/0d5ebd74-79c4-45de-993b-b8e022a5d437)
 
 This Secret will be used in C# for retrieve Key Vault Value
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/36916480-57a7-48c0-9567-9a768904cdb7)
 
-Step6: Create Key Vault
 
+**Step6:** Create Key Vault
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/69c2de2a-b932-47cb-8e95-500c4c0bccdd)
 
 Select "Vault Access Policy" as Permission Model
@@ -35,7 +34,8 @@ Select "Vault Access Policy" as Permission Model
 Click next, next and Create. Once deployment is completed click on "Go to Resource"
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/ecbdd7e3-5baa-4403-b402-e180eb378c2c)
 
-Step7: Click on Access Policies and Create
+
+**Step7:** Click on Access Policies and Create
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/a327ed12-5181-49e2-a232-12760aaf410b)
 
 Select "Key & Secret Management"
@@ -47,17 +47,18 @@ Select App Registration(AppRegistration for Key Vault) which is created in Step1
 Click Next and Create Key Vault
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/8d0ee588-e15c-4121-8b39-6e6f35f72dd9)
 
-Step8: Create Secret for Key Vault
+
+**Step8:** Create Secret for Key Vault
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/90acfe78-d343-468c-8727-e424d9fac604)
 
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/b15a10d4-6a9b-4aef-91cb-5fda83b46347)
 
 
-Step8: Get Info for Code from AppRegistration
+**Step9:** Get Info for Code from AppRegistration
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/78cdc415-02c4-4400-8bcd-02ddaa959ab8)
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/9703a3f2-e32c-48a1-b712-6d5e376b24e0)
 
-Step9: Get Vault Info for Code
+**Step10:** Get Vault Info for Code
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/7b79e26c-0a62-4706-83ec-98567e3b321c)
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/cfdf654f-20f9-4d55-ab0d-19562755942e)
 
