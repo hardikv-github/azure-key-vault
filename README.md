@@ -53,6 +53,13 @@ Step8: Create Secret for Key Vault
 ![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/b15a10d4-6a9b-4aef-91cb-5fda83b46347)
 
 
+Step8: Get Info for Code from AppRegistration
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/78cdc415-02c4-4400-8bcd-02ddaa959ab8)
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/9703a3f2-e32c-48a1-b712-6d5e376b24e0)
+
+Step9: Get Vault Info for Code
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/7b79e26c-0a62-4706-83ec-98567e3b321c)
+![image](https://github.com/hardikv-github/azure-key-vault/assets/56589683/cfdf654f-20f9-4d55-ab0d-19562755942e)
 
 
 
