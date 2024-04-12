@@ -24,7 +24,7 @@ namespace ConsoleAppTrueBlue
             // Specify your Azure Active Directory tenant ID, client ID, and client secret
             string tenantId = "890c15f5-67bd-4448-938e-53fb233b359d"; //Directory (tenant) ID
             string clientId = "3d334072-12dd-4da6-b404-836a1d8cc08c"; //Application (client) ID
-            string clientSecret = "Mjc8Q~WLvFqHuk_B1PIs******FpGm2dGal."; //Client secret
+            string clientSecret = "Mj***~****_B1PIs******Fp******."; //Client secret
 
             // Create a new secret client using the ClientSecretCredential for authentication
             var credential = new ClientSecretCredential(tenantId, clientId, clientSecret);
